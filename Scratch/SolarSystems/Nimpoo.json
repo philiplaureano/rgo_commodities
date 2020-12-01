@@ -1,0 +1,28 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Stantz",
+        "ManufacturedItems": [
+          8,
+          33,
+          34,
+          35
+        ],
+        "ItemsInDemand": [
+          5,
+          38
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Dakota"
+      },
+      {
+        "Name": "Colorado"
+      }
+    ],
+    "Name": "Nimpoo"
+  }
+]

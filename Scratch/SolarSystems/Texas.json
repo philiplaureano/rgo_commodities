@@ -1,0 +1,71 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Amarillo",
+        "ManufacturedItems": [
+          15,
+          27,
+          30
+        ],
+        "ItemsInDemand": [
+          26,
+          29,
+          37,
+          42
+        ]
+      },
+      {
+        "Name": "Austin",
+        "ManufacturedItems": [
+          12,
+          31,
+          37
+        ],
+        "ItemsInDemand": [
+          6,
+          9
+        ]
+      },
+      {
+        "Name": "Nacogdoches",
+        "ManufacturedItems": [
+          11,
+          24,
+          27
+        ],
+        "ItemsInDemand": [
+          6,
+          36,
+          37,
+          42
+        ]
+      },
+      {
+        "Name": "Lubbok",
+        "ManufacturedItems": [
+          15,
+          24,
+          27
+        ],
+        "ItemsInDemand": [
+          31,
+          33,
+          37
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Kansas"
+      },
+      {
+        "Name": "Eureka"
+      },
+      {
+        "Name": "New Mexico"
+      }
+    ],
+    "Name": "Texas"
+  }
+]

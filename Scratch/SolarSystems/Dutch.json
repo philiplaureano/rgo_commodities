@@ -1,0 +1,31 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Calpurnia",
+        "ManufacturedItems": [
+          18,
+          25,
+          43
+        ],
+        "ItemsInDemand": [
+          46,
+          1,
+          27
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Laredo"
+      },
+      {
+        "Name": "Sexton"
+      },
+      {
+        "Name": "Montana"
+      }
+    ],
+    "Name": "Dutch"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "NeuVegas",
+        "ManufacturedItems": [
+        ],
+        "ItemsInDemand": [
+          11,
+          12,
+          16,
+          19,
+          22
+        ]
+      },
+      {
+        "Name": "Sparks",
+        "ManufacturedItems": [
+        ],
+        "ItemsInDemand": [
+          17,
+          19,
+          40,
+          43
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Montana"
+      },
+      {
+        "Name": "1167-C"
+      },
+      {
+        "Name": "Wyoming"
+      }
+    ],
+    "Name": "Nevada"
+  }
+]

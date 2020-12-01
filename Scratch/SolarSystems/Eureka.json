@@ -1,0 +1,17 @@
+[
+  {
+    "Stations": [],
+    "Neighbors": [
+      {
+        "Name": "Kansas"
+      },
+      {
+        "Name": "Missouri"
+      },
+      {
+        "Name": "Mississippi"
+      }
+    ],
+    "Name": "Eureka"
+  }
+]

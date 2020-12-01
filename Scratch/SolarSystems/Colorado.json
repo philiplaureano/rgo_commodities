@@ -1,0 +1,52 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Boulder",
+        "ManufacturedItems": [
+          11,
+          21,
+          30
+        ],
+        "ItemsInDemand": [
+          9,
+          31,
+          29
+        ]
+      },
+      {
+        "Name": "Denver",
+        "ManufacturedItems": [
+          45,
+          30
+        ],
+        "ItemsInDemand": [
+          33,
+          37,
+          42
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "New Mexico"
+      },
+      {
+        "Name": "Juarez"
+      },
+      {
+        "Name": "Missouri"
+      },
+      {
+        "Name": "Montana"
+      },
+      {
+        "Name": "Missouri"
+      },
+      {
+        "Name": "Nimpoo"
+      }
+    ],
+    "Name": "Colorado"
+  }
+]

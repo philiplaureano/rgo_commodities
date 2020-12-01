@@ -1,0 +1,28 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Loreto",
+        "ManufacturedItems": [
+          0,
+          15,
+          39
+        ],
+        "ItemsInDemand": [
+          7,
+          36,
+          37
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Colorado"
+      },
+      {
+        "Name": "Merlin"
+      }
+    ],
+    "Name": "Juarez"
+  }
+]

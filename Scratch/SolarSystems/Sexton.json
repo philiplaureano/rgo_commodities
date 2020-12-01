@@ -1,0 +1,30 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Crow's Nest",
+        "ManufacturedItems": [
+          21,
+          29
+        ],
+        "ItemsInDemand": [
+          16,
+          19,
+          26
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Tombstone"
+      },
+      {
+        "Name": "Alabama"
+      },
+      {
+        "Name": "Dutch"
+      }
+    ],
+    "Name": "Sexton"
+  }
+]

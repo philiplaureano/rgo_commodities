@@ -1,0 +1,15 @@
+[
+  {
+    "Stations": [
+    ],
+    "Neighbors": [
+      {
+        "Name": "Vacaville"
+      },
+      {
+        "Name": "Hampton"
+      }
+    ],
+    "Name": "LittleHope"
+  }
+]

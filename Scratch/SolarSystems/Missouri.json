@@ -1,0 +1,57 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Jefferson",
+        "ManufacturedItems": [
+          12,
+          37
+        ],
+        "ItemsInDemand": [
+          6,
+          30,
+          32
+        ]
+      },
+      {
+        "Name": "Joplin",
+        "ManufacturedItems": [
+          33,
+          34
+        ],
+        "ItemsInDemand": [
+          9,
+          38,
+          42
+        ]
+      },
+      {
+        "Name": "Ozark",
+        "ManufacturedItems": [
+          6,
+          33
+        ],
+        "ItemsInDemand": [
+          11,
+          31,
+          38
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Carolina"
+      },
+      {
+        "Name": "Colorado"
+      },
+      {
+        "Name": "Taggart"
+      },
+      {
+        "Name": "Eureka"
+      }
+    ],
+    "Name": "Missouri"
+  }
+]

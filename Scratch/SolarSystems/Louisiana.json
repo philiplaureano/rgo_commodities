@@ -1,0 +1,41 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Lafitte",
+        "ManufacturedItems": [
+          6,
+          8,
+          24,
+          29
+        ],
+        "ItemsInDemand": [
+          0,
+          38,
+          43
+        ]
+      },
+      {
+        "Name": "Tallulah",
+        "ManufacturedItems": [
+          11,
+          15,
+          24
+        ],
+        "ItemsInDemand": [
+          31,
+          37
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Thibodaux"
+      },
+      {
+        "Name": "New Mexico"
+      }
+    ],
+    "Name": "Louisiana"
+  }
+]

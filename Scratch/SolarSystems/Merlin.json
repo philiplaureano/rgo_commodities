@@ -1,0 +1,33 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Pellinore",
+        "ManufacturedItems": [
+          0,
+          39
+        ],
+        "ItemsInDemand": [
+          7,
+          12,
+          36
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Thibodaux"
+      },
+      {
+        "Name": "Juarez"
+      },
+      {
+        "Name": "Medicine Hat"
+      },
+      {
+        "Name": "Discouragement"
+      }
+    ],
+    "Name": "Merlin"
+  }
+]

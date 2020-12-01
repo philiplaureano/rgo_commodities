@@ -1,0 +1,27 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Arbuthnott",
+        "ManufacturedItems": [
+          18,
+          43
+        ],
+        "ItemsInDemand": [
+          4,
+          9,
+          36
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Derringer"
+      },
+      {
+        "Name": "Sexton"
+      }
+    ],
+    "Name": "Alabama"
+  }
+]

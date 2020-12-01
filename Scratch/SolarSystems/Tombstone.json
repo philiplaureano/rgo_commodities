@@ -1,0 +1,33 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Hickok",
+        "ManufacturedItems": [
+          10,
+          20,
+          32,
+          26
+        ],
+        "ItemsInDemand": [
+          6,
+          12,
+          26,
+          44
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Sexton"
+      },
+      {
+        "Name": "Arizona"
+      },
+      {
+        "Name": "Sweetland"
+      }
+    ],
+    "Name": "Tombstone"
+  }
+]

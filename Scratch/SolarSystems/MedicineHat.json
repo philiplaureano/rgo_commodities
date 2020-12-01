@@ -1,0 +1,39 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Callahan",
+        "ManufacturedItems": [
+          6,
+          34,
+          35
+        ],
+        "ItemsInDemand": [
+          5,
+          38
+        ]
+      },
+      {
+        "Name": "Dautry",
+        "ManufacturedItems": [
+          44,
+          34,
+          35
+        ],
+        "ItemsInDemand": [
+          47,
+          37
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Merlin"
+      },
+      {
+        "Name": "1167-C"
+      }
+    ],
+    "Name": "Medicine Hat"
+  }
+]

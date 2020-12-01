@@ -1,0 +1,38 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Chancey",
+        "ManufacturedItems": [
+          46,
+          0,
+          45
+        ],
+        "ItemsInDemand": [
+          12,
+          17,
+          34,
+          40
+        ]
+      },
+      {
+        "Name": "Harbinger",
+        "ManufacturedItems": [
+          25,
+          42
+        ],
+        "ItemsInDemand": [
+          15,
+          16,
+          24
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Tennessee"
+      }
+    ],
+    "Name": "Slaughter"
+  }
+]

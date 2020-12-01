@@ -1,0 +1,30 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Hobbes",
+        "ManufacturedItems": [
+          12,
+          31,
+          37
+        ],
+        "ItemsInDemand": [
+          32,
+          33
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Louisiana"
+      },
+      {
+        "Name": "Colorado"
+      },
+      {
+        "Name": "Texas"
+      }
+    ],
+    "Name": "New Mexico"
+  }
+]

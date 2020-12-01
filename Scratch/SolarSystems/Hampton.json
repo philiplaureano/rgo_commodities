@@ -1,0 +1,33 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Cordell",
+        "ManufacturedItems": [
+          9
+        ],
+        "ItemsInDemand": [
+          8,
+          10,
+          14,
+          21,
+          22,
+          34,
+          40
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Utah"
+      },
+      {
+        "Name": "Derringer"
+      },
+      {
+        "Name": "LittleHope"
+      }
+    ],
+    "Name": "Hampton"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Anders",
+        "ManufacturedItems": [
+          24,
+          44,
+          34
+        ],
+        "ItemsInDemand": [
+          46,
+          2,
+          3,
+          25,
+          28
+        ]
+      },
+      {
+        "Name": "Ridley",
+        "ManufacturedItems": [
+          1,
+          27,
+          30
+        ],
+        "ItemsInDemand": [
+          17,
+          19,
+          40
+        ]
+      },
+      {
+        "Name": "Venger",
+        "ManufacturedItems": [
+          16,
+          23
+        ],
+        "ItemsInDemand": [
+          10,
+          14
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Utah"
+      }
+    ],
+    "Name": "Backbone"
+  }
+]

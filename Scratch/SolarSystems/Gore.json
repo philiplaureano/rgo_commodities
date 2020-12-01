@@ -1,0 +1,25 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Zadar",
+        "ManufacturedItems": [
+          1,
+          27,
+          36
+        ],
+        "ItemsInDemand": [
+          13,
+          31,
+          39
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Dakota"
+      }
+    ],
+    "Name": "Gore"
+  }
+]

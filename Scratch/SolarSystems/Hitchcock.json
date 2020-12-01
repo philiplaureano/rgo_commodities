@@ -1,0 +1,49 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Alfred",
+        "ManufacturedItems": [
+          18,
+          19
+        ],
+        "ItemsInDemand": [
+          46,
+          39
+        ]
+      },
+      {
+        "Name": "Fontaine",
+        "ManufacturedItems": [
+          45,
+          15,
+          27
+        ],
+        "ItemsInDemand": [
+          13,
+          31,
+          35
+        ]
+      },
+      {
+        "Name": "Hedren",
+        "ManufacturedItems": [
+          12,
+          17,
+          40
+        ],
+        "ItemsInDemand": [
+          20,
+          30,
+          35
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Dakota"
+      }
+    ],
+    "Name": "Hitchcock"
+  }
+]

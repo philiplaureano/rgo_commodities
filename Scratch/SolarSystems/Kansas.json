@@ -1,0 +1,53 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Witchita",
+        "ManufacturedItems": [
+          16,
+          17
+        ],
+        "ItemsInDemand": [
+          30,
+          33
+        ]
+      },
+      {
+        "Name": "Topeka",
+        "ManufacturedItems": [
+          15,
+          24,
+          27
+        ],
+        "ItemsInDemand": [
+          6,
+          20,
+          32,
+          37
+        ]
+      },
+      {
+        "Name": "Iola",
+        "ManufacturedItems": [
+          5,
+          38
+        ],
+        "ItemsInDemand": [
+          15,
+          24,
+          26,
+          31
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Texas"
+      },
+      {
+        "Name": "Rockfarming"
+      }
+    ],
+    "Name": "Kansas"
+  }
+]

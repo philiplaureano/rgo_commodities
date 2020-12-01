@@ -1,0 +1,36 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Charleston",
+        "ManufacturedItems": [
+          8,
+          21
+        ],
+        "ItemsInDemand": [
+          5,
+          29,
+          43
+        ]
+      },
+      {
+        "Name": "Spartanburg",
+        "ManufacturedItems": [
+          8,
+          33
+        ],
+        "ItemsInDemand": [
+          5,
+          25,
+          38
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Missouri"
+      }
+    ],
+    "Name": "Carolina"
+  }
+]

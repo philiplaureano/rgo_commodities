@@ -1,0 +1,27 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "872-D",
+        "ManufacturedItems": [
+          10,
+          14,
+          32
+        ],
+        "ItemsInDemand": [
+          1,
+          37
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Medicine Hat"
+      },
+      {
+        "Name": "Nevada"
+      }
+    ],
+    "Name": "1167-C"
+  }
+]

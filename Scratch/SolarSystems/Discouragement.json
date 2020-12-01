@@ -1,0 +1,38 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Morgain",
+        "ManufacturedItems": [
+          0,
+          11,
+          24
+        ],
+        "ItemsInDemand": [
+          31,
+          37,
+          43
+        ]
+      },
+      {
+        "Name": "Velos",
+        "ManufacturedItems": [
+          2,
+          39
+        ],
+        "ItemsInDemand": [
+          16,
+          23,
+          41,
+          43
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Merlin"
+      }
+    ],
+    "Name": "Discouragement"
+  }
+]

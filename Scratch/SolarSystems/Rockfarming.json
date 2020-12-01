@@ -1,0 +1,25 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Granite",
+        "ManufacturedItems": [
+          0,
+          11,
+          24
+        ],
+        "ItemsInDemand": [
+          26,
+          33,
+          37
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Kansas"
+      }
+    ],
+    "Name": "Texas"
+  }
+]

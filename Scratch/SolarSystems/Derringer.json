@@ -1,0 +1,30 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Backfire",
+        "ManufacturedItems": [
+          19,
+          32
+        ],
+        "ItemsInDemand": [
+          30,
+          31,
+          33
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Hampton"
+      },
+      {
+        "Name": "Laredo"
+      },
+      {
+        "Name": "Alabama"
+      }
+    ],
+    "Name": "Derringer"
+  }
+]

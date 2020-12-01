@@ -1,0 +1,59 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Belgrade",
+        "ManufacturedItems": [
+          12,
+          37,
+          40
+        ],
+        "ItemsInDemand": [
+          20,
+          30,
+          35
+        ]
+      },
+      {
+        "Name": "Chinook",
+        "ManufacturedItems": [
+          5
+        ],
+        "ItemsInDemand": [
+          15,
+          23,
+          35
+        ]
+      },
+      {
+        "Name": "Ravalli",
+        "ManufacturedItems": [
+        ],
+        "ItemsInDemand": [
+          8,
+          11,
+          19,
+          21,
+          24,
+          44,
+          35
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Nevada"
+      },
+      {
+        "Name": "Colorado"
+      },
+      {
+        "Name": "Mississippi"
+      },
+      {
+        "Name": "Dutch"
+      }
+    ],
+    "Name": "Montana"
+  }
+]

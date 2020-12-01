@@ -1,0 +1,28 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Rasmussen",
+        "ManufacturedItems": [
+          7,
+          21,
+          43
+        ],
+        "ItemsInDemand": [
+          13,
+          16,
+          27
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Missouri"
+      },
+      {
+        "Name": "Arizona"
+      }
+    ],
+    "Name": "Taggart"
+  }
+]

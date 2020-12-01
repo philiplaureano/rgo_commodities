@@ -1,0 +1,30 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Astoria",
+        "ManufacturedItems": [
+          7,
+          37,
+          40
+        ],
+        "ItemsInDemand": [
+          29,
+          31
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Hitchcock"
+      },
+      {
+        "Name": "Gore"
+      },
+      {
+        "Name": "Nimpoo"
+      }
+    ],
+    "Name": "Dakota"
+  }
+]

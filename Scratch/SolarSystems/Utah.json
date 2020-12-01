@@ -1,0 +1,42 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Provo",
+        "ManufacturedItems": [
+          9,
+          29
+        ],
+        "ItemsInDemand": [
+          46,
+          8,
+          10,
+          14,
+          24
+        ]
+      },
+      {
+        "Name": "Tremonton",
+        "ManufacturedItems": [
+          1,
+          11,
+          27
+        ],
+        "ItemsInDemand": [
+          21,
+          31,
+          35
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Backbone"
+      },
+      {
+        "Name": "Hampton"
+      }
+    ],
+    "Name": "Utah"
+  }
+]

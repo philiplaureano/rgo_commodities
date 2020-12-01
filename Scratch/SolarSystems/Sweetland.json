@@ -1,0 +1,26 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Parhelion",
+        "ManufacturedItems": [
+          10,
+          20,
+          23,
+          34
+        ],
+        "ItemsInDemand": [
+          5,
+          12,
+          25
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Tombstone"
+      }
+    ],
+    "Name": "Sweetland"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Manatchie",
+        "ManufacturedItems": [
+          12,
+          16,
+          31,
+          40
+        ],
+        "ItemsInDemand": [
+          6,
+          20,
+          35
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Tennessee"
+      },
+      {
+        "Name": "Montana"
+      },
+      {
+        "Name": "Arizona"
+      },
+      {
+        "Name": "Eureka"
+      }
+    ],
+    "Name": "Mississippi"
+  }
+]

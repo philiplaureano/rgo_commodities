@@ -1,0 +1,28 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Bonnaire",
+        "ManufacturedItems": [
+          33,
+          35,
+          39
+        ],
+        "ItemsInDemand": [
+          5,
+          36,
+          38
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Merlin"
+      },
+      {
+        "Name": "Louisiana"
+      }
+    ],
+    "Name": "Thibodaux"
+  }
+]

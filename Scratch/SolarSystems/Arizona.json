@@ -1,0 +1,46 @@
+[
+  {
+    "Stations": [
+      {
+        "Name": "Buckeye",
+        "ManufacturedItems": [
+          10,
+          20,
+          32
+        ],
+        "ItemsInDemand": [
+          26,
+          37
+        ]
+      },
+      {
+        "Name": "Flagstaff",
+        "ManufacturedItems": [
+          10,
+          14,
+          32
+        ],
+        "ItemsInDemand": [
+        ]
+      }
+    ],
+    "Neighbors": [
+      {
+        "Name": "Dakota"
+      },
+      {
+        "Name": "Taggart"
+      },
+      {
+        "Name": "Tombstone"
+      },
+      {
+        "Name": "Mississippi"
+      },
+      {
+        "Name": "Alabama"
+      }
+    ],
+    "Name": "Arizona"
+  }
+]
